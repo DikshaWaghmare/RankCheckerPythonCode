@@ -1,4 +1,4 @@
-# finding ranking from query and url
+# simpe code for finding ranking from query and url
 
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options

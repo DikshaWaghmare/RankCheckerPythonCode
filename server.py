@@ -1,3 +1,5 @@
+# collect updated rank after minutes in excel file even closing browser
+
 import sys
 import atexit
 from selenium import webdriver
